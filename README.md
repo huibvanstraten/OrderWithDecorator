@@ -1,6 +1,6 @@
 # Burgerjoint APP
 
-Order a burger at burgerjoint
+Order a burger at burgerjoint. 
 A fictional assignment
 
 For this assignment, I implemented the Decorator Pattern. 
