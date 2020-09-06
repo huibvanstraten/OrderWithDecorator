@@ -27,15 +27,24 @@ The basic hamburger should have the following items:
 •	Up to 4 additional toppings (e.g. lettuce, tomato, carrot, etc) that the customer can select to be added to the burger 
 
 •	Each one of these items gets charged an additional price. 
+
 •	So you need some way to track how many items got added. The burger has a base price and the additions are all separately priced (up to 4 additions). 
+
 •	And calculate the final price (base burger with all the additions). 
+
 •	Create a Hamburger class to deal with all the above. 
 
 The healthy burger should have the following: 
 
 •	It can have 6 additions (toppings) in total. 
-•	Hint: You probably want to process the two additional items in this new class (subclass of burger), 
-•	The deluxe burger should have the following: 
+
+•	Hint: You probably want to process the two additional items in this new class (subclass of burger)
+
+The deluxe burger should have the following: 
+
 •	Comes with chips and drinks as additions 
+
 •	No extra additions are allowed. 
+
 •	Prevent other additions being made. 
+
