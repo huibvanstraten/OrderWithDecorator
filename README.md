@@ -23,7 +23,9 @@ User stories
 The basic hamburger should have the following items: 
 
 •	Description and price
+
 •	Up to 4 additional toppings (e.g. lettuce, tomato, carrot, etc) that the customer can select to be added to the burger 
+
 •	Each one of these items gets charged an additional price. 
 •	So you need some way to track how many items got added. The burger has a base price and the additions are all separately priced (up to 4 additions). 
 •	And calculate the final price (base burger with all the additions). 
